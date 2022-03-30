@@ -1,0 +1,20 @@
+/*esto es un comentario de css */
+
+ /*
+ANATOMIA DEL CSS
+ selector{ 
+       propiedad: valor;
+       propiedad: valor;
+  }
+
+*/
+body{
+    background-color: mediumpurple;
+}
+
+h1{
+  color:cadetblue;
+}
+p {
+    color:maroon
+}
