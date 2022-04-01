@@ -9,12 +9,35 @@ ANATOMIA DEL CSS
 
 */
 body{
-    background-color: mediumpurple;
+    background-color: rgb(109, 89, 109);
 }
 
 h1{
+  background-color: cornsilk;
   color:cadetblue;
 }
-p {
+h5 {
+  background-color: darksalmon;
     color:maroon
 }
+h2{
+  background-color: lightsalmon;
+    color: lightslategrey;
+  }  
+  h3 {
+
+      color: black;}
+      h4 {
+        color: black;
+  
+    }
+
+    h6  { 
+      color: black; }
+    img{
+      width: 400px;
+      height: 400px;
+    }
+
+
+  
